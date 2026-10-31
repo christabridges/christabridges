@@ -25,16 +25,9 @@
   - When I'm not coding, I like to make origami models. Or play Animal Crossing, Palia, or Zelda. Or watch YouTube. All for fun.
 - 📈 Statistics:...
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=cBridges851&show_icons=true&theme=midnight-purple"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cBridges851&theme=midnight-purple"/>
 </div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cBridges851"/>  
-
-- GitHub Trophies 🏆
-<div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=cBridges851&theme=darkhub&no-frame=true&margin-w=30" />
-</div>
 
 And finally... a random joke! Cos why not 😋   
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=random)
